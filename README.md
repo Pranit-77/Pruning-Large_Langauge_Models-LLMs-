@@ -33,6 +33,7 @@ python main2.py \
 
 
 ## Final Result
+
 ## For CommonsenseQA Dataset
 
 | Model          | Sparsity | WikiText Perplexity | Accuracy | Precision | Recall  | F1-Score |
@@ -49,7 +50,7 @@ python main2.py \
 | Mistral 7B     | 0.75     | 50.42               | 20.97    | 20.96     | 20.97   | 20.94    |
 
 
-##For ARC Dataset
+## For ARC Dataset
 
 | Model          | Sparsity | WikiText Perplexity | Accuracy | Precision | Recall  | F1-Score |
 |----------------|----------|---------------------|----------|-----------|---------|----------|
