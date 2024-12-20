@@ -8,7 +8,7 @@ The following commands were used to prune the Mistral 7B and LLama 7B models.
 
 ```bash
 python main2.py \
-   --model mistralai/Mistral-7B-Instruct-v0.1 \
+   --model "mistralai/Mistral-7B-Instruct-v0.1" \
    --prune_method wanda \
    --sparsity_ratio 0.75 \
    --sparsity_type unstructured \
