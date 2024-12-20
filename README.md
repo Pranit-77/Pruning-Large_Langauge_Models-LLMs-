@@ -32,8 +32,8 @@ python main2.py \
 - Use the above commands and tweak the parameters as necessary. Make sure to add the tokenizers while using the models from Hugging Face.
 
 
-###Final Result
-##For CommonsenseQA Dataset
+## Final Result
+## For CommonsenseQA Dataset
 
 | Model          | Sparsity | WikiText Perplexity | Accuracy | Precision | Recall  | F1-Score |
 |----------------|----------|---------------------|----------|-----------|---------|----------|
